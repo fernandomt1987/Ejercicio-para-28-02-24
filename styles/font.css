@@ -1,0 +1,17 @@
+
+:root{
+    --primary-color:  #FAFBFF ; /*color de fondo*/
+    --secondary-color: #00B191 ; /*color estrella*/
+    --third-color: #6C48E4; /*color de enlace*/
+    --text-color: #877677; /*color texto*/
+    --text-title: #1D1E22; /*color del título y estrella*/
+}
+
+
+
+
+:root{
+    --ff-title: ;
+    --ff-normal: "DM Sans", sans-serif; ;
+
+}
